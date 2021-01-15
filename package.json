@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/t-markey/eth-ideas#readme",
   "dependencies": {
+    "solc": "^0.8.0",
     "web3": "^0.20.1"
   }
 }

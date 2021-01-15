@@ -1,4 +1,4 @@
-pragma solidity ^0.4.18;
+pragma solidity 0.8.0;
 
 contract MyToken {
   address public creator;
@@ -11,7 +11,7 @@ contract MyToken {
     balances[creator] = totalSupply;
   }
 
-  function balanceOf(address owner) public constant returns(uint256) {
+  function balanceOf(address owner) public view  returns(uint256) {
     return balances[owner];
   }
 
