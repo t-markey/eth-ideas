@@ -45,4 +45,6 @@ Open index.html in chrome
 ```bash
 open -a /Applications/Google\ Chrome.app index.html
 ```
-      
+# Truffle
+
+.sol file has to be the same as contract name...      
