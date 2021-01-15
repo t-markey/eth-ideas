@@ -2,7 +2,7 @@
 First Ethereum App
 
 
-Ideas/Ledgers/For good
+##Ideas/Ledgers/For good
 Food intake - see correlations in diet vs disease
 Gps coords - alibi for legal issues, prove you weren't there
 -Air of Reality test - "whether the record contains a sufficient factual foundation for a properly instructed jury to give effect to the defence"
@@ -18,9 +18,31 @@ Journaling - Help mentally ill see their progression and previous mindset
 
 
 
-Other Ideas
+##Other Ideas
 Can you store large data in blockchain easily?
 When storing data this way, some applications, only the included is true, doesnt mean what isnt included is false
 Pay to go back and change the history, version control with a catch
 How much does it cost for you to be remembered a certain way, let the network name the price
 
+
+
+
+## Getting started
+
+
+Get 10 faux eth adresses:
+```bash
+testrpc
+```
+Start Node console:
+```bash
+node
+```
+.editor and ^d For multiline code in node
+[See commands to enter here for eth transactions](https://blog.openzeppelin.com/a-gentle-introduction-to-ethereum-programming-part-1-783cc7796094/)
+
+Open index.html in chrome
+```bash
+open -a /Applications/Google\ Chrome.app index.html
+```
+      
