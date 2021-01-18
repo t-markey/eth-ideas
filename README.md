@@ -14,9 +14,9 @@ Historic Documentation - so people can't rewrite history
 Credits to Inspirations in  cooking - so chefs can cook freely, without being  accused of cultural appropriation
 Sales of sentimental Items , info about owners  - Violins, Cars, Family, Heirloom, Include stories
 Family Will's and Estates - So they can't be changed ameneded by manipulative family members late in life against will
-Journaling - Help mentally ill see their progression and previous mindset
- 
-
+Journaling - Help mentally ill see their progression and previous mindset       
+       
+        
 
 
 ## Other Ideas
