@@ -2,7 +2,8 @@
 First Ethereum App
 
 
-##Ideas/Ledgers/For good
+## Ideas/Ledgers/For good
+-ledger of realestate owners to tell stories
 Food intake - see correlations in diet vs disease
 Gps coords - alibi for legal issues, prove you weren't there
 -Air of Reality test - "whether the record contains a sufficient factual foundation for a properly instructed jury to give effect to the defence"
@@ -18,7 +19,7 @@ Journaling - Help mentally ill see their progression and previous mindset
 
 
 
-##Other Ideas
+## Other Ideas
 Can you store large data in blockchain easily?
 When storing data this way, some applications, only the included is true, doesnt mean what isnt included is false
 Pay to go back and change the history, version control with a catch
